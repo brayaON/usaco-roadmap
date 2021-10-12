@@ -10,7 +10,9 @@ En este documento van a quedar los problemas que se propusieron y sus respectivo
 
 * [Libro guía en C++](https://darrenyao.com/usacobook/cpp.pdf)
 
-* [Libro guía en Java](https://darrenyao.com/usacobook/java.pdf)
+* [Libro guía en Java](https://darrenyao.com/usacobook/java.pdf)[2017_Book_GuideToCompetitiveProgramming.pdf - Google Drive](https://drive.google.com/file/d/1K9BQYlaN5uW-swVjMqT708DlddvQAp9p/view?usp=sharing)
+
+* [Guide To Competitive Programming Book ](https://drive.google.com/file/d/1K9BQYlaN5uW-swVjMqT708DlddvQAp9p/view?usp=sharing)
 
 ## Problemas
 
@@ -38,4 +40,18 @@ En este documento van a quedar los problemas que se propusieron y sus respectivo
 
 - [ ] [USACO - Censonring](http://www.usaco.org/index.php?page=viewproblem2&cpid=526)
 
+### Búsqueda Completa
 
+- [ ] [USACO - Diamond Collector](http://www.usaco.org/index.php?page=viewproblem2&cpid=639)
+
+- [ ] [USACO - Cow Gymnastics](http://www.usaco.org/index.php?page=viewproblem2&cpid=963)
+
+- [ ] [USACO - Bovine Genomics](http://www.usaco.org/index.php?page=viewproblem2&cpid=736)
+
+- [ ] [USACO - Why Did the Cow Cross the Road II](http://www.usaco.org/index.php?page=viewproblem2&cpid=712)
+
+- [ ] [USACO - Bovine Genomics](http://www.usaco.org/index.php?page=viewproblem2&cpid=739)
+
+- [ ] [USACO - Load Balancing](http://www.usaco.org/index.php?page=viewproblem2&cpid=617)
+
+- [ ] [USACO - Cowntact Tracing](http://www.usaco.org/index.php?page=viewproblem2&cpid=1037)
