@@ -10,7 +10,7 @@ En este documento van a quedar los problemas que se propusieron y sus respectivo
 
 * [Libro guía en C++](https://darrenyao.com/usacobook/cpp.pdf)
 
-* [Libro guía en Java](https://darrenyao.com/usacobook/java.pdf)[2017_Book_GuideToCompetitiveProgramming.pdf - Google Drive](https://drive.google.com/file/d/1K9BQYlaN5uW-swVjMqT708DlddvQAp9p/view?usp=sharing)
+* [Libro guía en Java](https://darrenyao.com/usacobook/java.pdf)
 
 * [Guide To Competitive Programming Book ](https://drive.google.com/file/d/1K9BQYlaN5uW-swVjMqT708DlddvQAp9p/view?usp=sharing)
 
