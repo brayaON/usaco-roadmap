@@ -55,3 +55,25 @@ En este documento van a quedar los problemas que se propusieron y sus respectivo
 - [ ] [USACO - Load Balancing](http://www.usaco.org/index.php?page=viewproblem2&cpid=617)
 
 - [ ] [USACO - Cowntact Tracing](http://www.usaco.org/index.php?page=viewproblem2&cpid=1037)
+
+### Búsqueda Completa - Recursión
+
+Para esta sesión recomendado darle una lectura [a esta parte](https://usaco.guide/CPH.pdf#page=61) o [esta](https://usaco.guide/CP2.pdf#page=58) sobre cómo recortar la búsqueda. 
+
+- [ ] [USACO - Livestock Lineup](http://www.usaco.org/index.php?page=viewproblem2&cpid=965)
+
+- [ ] [CSES - Grid Paths](https://cses.fi/problemset/task/1625)
+
+- [ ] [USACO - Back and Forth](http://www.usaco.org/index.php?page=viewproblem2&cpid=857)
+
+- [ ] [Codeforces - Robbers' watch](https://codeforces.com/problemset/problem/686/C)
+
+- [ ] [Codeforces - Gargari and Bishops](https://codeforces.com/problemset/problem/463/C)
+
+- [ ] [SPOJ - STAR3CAS](https://www.spoj.com/problems/STAR3CAS/en/)
+
+- [ ] [SPOJ - STPAR](https://www.spoj.com/problems/STPAR/en/)
+
+- [ ] [Codeforces - Preparing Olympiad](https://codeforces.com/problemset/problem/550/B)
+
+- [ ] [SPOJ - EMTY2](https://www.spoj.com/problems/EMTY2/en/)
