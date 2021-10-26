@@ -77,3 +77,17 @@ Para esta sesión recomendado darle una lectura [a esta parte](https://usaco.gui
 - [ ] [Codeforces - Preparing Olympiad](https://codeforces.com/problemset/problem/550/B)
 
 - [ ] [SPOJ - EMTY2](https://www.spoj.com/problems/EMTY2/en/)
+
+### Ordenamiento y similares
+
+* [ ] [Codeforces - Kayaking](https://codeforces.com/contest/863/problem/B)
+
+- [ ] [USACO - Angry Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=592)
+
+- [ ] [USACO - Where Am I?](http://www.usaco.org/index.php?page=viewproblem2&cpid=964)
+
+- [ ] [USACO - Not Last](http://www.usaco.org/index.php?page=viewproblem2&cpid=687)
+
+- [ ] [Atcoder - Made Up](https://atcoder.jp/contests/abc202/tasks/abc202_c?lang=en)
+
+- [ ] [Codeforces - Jury Marks](https://codeforces.com/contest/831/problem/C)
