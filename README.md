@@ -93,8 +93,6 @@ Para esta sesión recomendado darle una lectura [a esta parte](https://usaco.gui
 
 ### Adhoc y otros
 
-* [ ] 
-
 - [ ] [Codeforces - 1604B](https://codeforces.com/contest/1604/problem/B)
 
 - [ ] [USACO - Modern Art](http://www.usaco.org/index.php?page=viewproblem2&cpid=737)
