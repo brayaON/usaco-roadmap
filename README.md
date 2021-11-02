@@ -81,7 +81,6 @@ Para esta sesión recomendado darle una lectura [a esta parte](https://usaco.gui
 ### Ordenamiento y similares
 
 * [ ] [Codeforces - Kayaking](https://codeforces.com/contest/863/problem/B)
-
 - [ ] [USACO - Angry Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=592)
 
 - [ ] [USACO - Where Am I?](http://www.usaco.org/index.php?page=viewproblem2&cpid=964)
@@ -91,3 +90,19 @@ Para esta sesión recomendado darle una lectura [a esta parte](https://usaco.gui
 - [ ] [Atcoder - Made Up](https://atcoder.jp/contests/abc202/tasks/abc202_c?lang=en)
 
 - [ ] [Codeforces - Jury Marks](https://codeforces.com/contest/831/problem/C)
+
+### Adhoc y otros
+
+* [ ] 
+
+- [ ] [Codeforces - 1604B](https://codeforces.com/contest/1604/problem/B)
+
+- [ ] [USACO - Modern Art](http://www.usaco.org/index.php?page=viewproblem2&cpid=737)
+
+- [ ] [USACO - Spaced Out](http://www.usaco.org/index.php?page=viewproblem2&cpid=1088)
+
+- [ ] [Codeforces - 1592B](https://codeforces.com/contest/1592/problem/B)
+
+- [ ] [USACO - Race](http://www.usaco.org/index.php?page=viewproblem2&cpid=989)
+
+- [ ] [Codeforces - 1541B](https://codeforces.com/contest/1541/problem/B)
